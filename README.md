@@ -175,33 +175,7 @@ Tech: SQL, Excel, Analytics
 - Team Leadership  
 - Stakeholder Communication  
 
----
 
-# 🌍 **Visitor Map**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SkkJodhpur&label=Visitors&color=12&icon=5&pretty=true" />
-</p>
-
----
-
-# 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 📊 **GitHub Analytics**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 # 🌐 **Newsletter: AI Revolution**
 *"AI Revolution: Transforming Our World"*  
