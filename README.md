@@ -54,7 +54,7 @@ ISBNs: *9780443341359* (Paperback), *9780443341366* (eBook)
 
 ---
 
-# 🛡️ **Certifications (Selected)**
+# 🛡️ **Certifications**
 - Generative AI (LinkedIn Learning, 2025)  
 - Responsible AI for Managers  
 - AI for All — Intel  
