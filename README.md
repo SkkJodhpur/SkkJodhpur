@@ -1,24 +1,41 @@
+<!-- CUSTOM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C2FF&height=250&section=header&text=Shailesh%20Kumar%20Khanchandani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<!-- ANIMATED TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+•+Project+Manager+•+Educator+•+Full-Stack+Innovator;12%2B+Years+Industry+Experience;4%2B+Years+in+Enterprise+AI+%26+LLM+Systems;Building+Scalable+AI+Solutions+Across+Domains" />
+</p>
+
+<p align="center">
+  <a href="mailto:Skk.jodhpur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/SkkJodhpur"><img src="https://komarev.com/ghpvc/?username=SkkJodhpur&style=for-the-badge&color=blue"></a>
+</p>
+
+---
+
 # 👋 Hi, I'm **Shailesh Kumar Khanchandani**
 
 **AI Engineer • Project Manager • Educator • Full-Stack Innovator**  
 **12+ Years of Diverse Industry Experience | 4+ Years in Enterprise AI, LLM Systems & Digital Transformation**
 
-Driven by a mission to build practical, scalable, and high-impact AI solutions across **education, enterprise, and government ecosystems**.  
-I specialize in **LLM fine-tuning, RAG architecture, GenAI automation, enterprise solution delivery, and large-scale project leadership**.
+Driven to build practical, scalable, and high-impact AI solutions across **education, enterprise, and government ecosystems**.  
+Expert in **LLM fine-tuning, RAG architecture, GenAI automation, system design, and enterprise AI delivery**.
 
 ---
 
 # 🧑‍💻 **About Me**
-AI Value Creator, Project Manager, and Computer Science Educator with deep experience in:
+AI Value Creator, Project Manager & Computer Science Educator with expertise in:
 
-- Building end-to-end AI/ML systems  
-- Developing RAG pipelines & finetuned LLMs  
-- Leading engineering teams (up to 40 people)  
-- Delivering enterprise projects for automotive, manufacturing, and EdTech sectors  
-- Teaching AI, ML, and system design as Guest Faculty  
+- Building end-to-end **AI/ML systems**
+- Developing **RAG pipelines** & **finetuned LLMs**
+- Leading engineering teams (up to 40 people)
+- Delivering AI-driven enterprise platforms
+- Teaching AI, ML & system design as Guest Faculty
 
-I combine **academic excellence (ME with Honours)** with hands-on engineering and management expertise.  
-Author of a chapter in an **Elsevier publication on global AI adoption**.
+Author of a chapter in an **Elsevier** AI publication.
 
 ---
 
@@ -43,12 +60,8 @@ ISBNs: *9780443341359* (Paperback), *9780443341366* (eBook)
 ---
 
 # 🎓 **Education**
-- **ME with Honors — Computer Science Engineering**  
-  MBM University (2021–2023)
-
-- **B.Tech — Computer Science Engineering**  
-  Rajasthan Technical University (2009–2013)
-
+- **ME with Honors — Computer Science Engineering** — MBM University (2021–2023)  
+- **B.Tech — Computer Science Engineering** — RTU (2009–2013)  
 - **Senior Secondary (2009)** — RBSE  
 - **Secondary (2007)** — RBSE  
 
@@ -58,147 +71,142 @@ ISBNs: *9780443341359* (Paperback), *9780443341366* (eBook)
 - Generative AI (LinkedIn Learning, 2025)  
 - Responsible AI for Managers  
 - AI for All — Intel  
-- Mastering GenAI with OpenAI, LangChain, LlamaIndex — iNeuron  
-- Neo4j & LLM Fundamentals — Neo4j  
+- LangChain & LlamaIndex — iNeuron  
+- Neo4j & LLM Fundamentals  
 - Build Your Own GPTs — PMI  
 - AWS DevOps Automation — CompTIA  
-- Artificial Intelligence Foundations — IBM SkillsBuild  
-- Google Gemini & Imagen (Vertex AI) — Google Cloud Skills Boost  
-
----
-
-# 💼 **Professional Timeline**
-
-## **🔹 Vishleshan Software Solutions Pvt. Ltd**  
-### *Project Manager – AI Product & Delivery Manager (2025–Present)*  
-- Delivered AI-driven systems for enterprise clients (Polycab, Luminous, TMCV).  
-- Managed scope, timelines, sprints, resources, and payment tracking.  
-- Designed and deployed workflow automation, ML-enabled modules, and AI assistants.
-
-**Key Achievements:**  
-✔ Implemented end-to-end AI operational modules  
-✔ Improved enterprise decision-making through ML automation  
-✔ Built high-trust relationships with C-level stakeholders  
-
----
-
-## **🔹 Edulab Edutech**  
-### *Senior Project Manager – ERP & AI Solutions (2024–2025)*  
-- Implemented Admission, Exam, SRM & AI-powered automation modules.  
-- Led multi-university ERP deployment with AI chatbots & academic flow systems.  
-- Coordinated between university leadership and internal engineering units.
-
----
-
-## **🔹 CHIRPN IT SOLUTIONS**  
-### *Senior Associate Project Manager (2021–2024)*  
-- Led AI-driven development projects with teams up to 40 members.  
-- Managed documentation, Agile ceremonies, client communication, and UAT.  
-- Delivered enterprise-grade AI and digital solutions.
-
----
-
-## **🔹 Utkarsh Classes & Edutech Pvt. Ltd**  
-### *Technical Lead (UI/UX) & Web Developer (2019–2021)*  
-- Led platform redesign and implemented video delivery systems (AWS, Vimeo, JW Player).  
-- Built intuitive UI/UX with Adobe XD & Figma.  
-
----
-
-## **🔹 SIE Krishnas Group**  
-### *E-Commerce Specialist (2016–2019)*  
-- Improved SEO/SMO growth & brand visibility.  
-- Managed catalogs, inventory, digital content, and multi-platform operations.
-
----
-
-## **🔹 Golechha Investments — Technical Support (2015–2016)**  
-Provided software support, customer success, and business growth strategies.
-
-## **🔹 Jodhpur Informatics — Senior E-Research Data Analyst (2013–2015)**  
-Worked with US clients (Perfume Worldwide Inc.) ensuring high-accuracy research data workflows.
+- AI Foundations — IBM SkillsBuild  
+- Google Gemini & Imagen — Google Cloud Skills Boost  
 
 ---
 
 # 🧠 **Technical Skills**
 
 ### **AI & ML**
-LLMs, RAG, LangChain, LlamaIndex, Generative AI, Fine-tuning, Neo4j Graph AI
+LLMs, RAG, LangChain, LlamaIndex, Fine-tuning, Generative AI, Neo4j Graph AI  
 
 ### **Development**
-Python, Node.js, JavaScript, React, APIs, FastAPI, SQL, Web Scraping (Playwright)
+Python, Node.js, JavaScript, React, FastAPI, SQL, API Development, Playwright  
 
 ### **UI/UX**
-Adobe XD, Figma, Interaction Design
+Adobe XD, Figma, Wireframes, User Flows  
 
 ### **Project Management**
-JIRA, Trello, Agile, Scrum, Confluence, Slack, MS Planner, Taiga
+JIRA, Trello, Agile/Scrum, Confluence, Slack, MS Planner, Taiga  
 
 ### **Tools & Platforms**
-AWS, Google Cloud, WordPress, Docker, MySQL, Neo4j, Git, Salesforce, Zoho, No-code Tools (Cursor, Trae, Lovable)
+AWS, Google Cloud, Docker, MySQL, Neo4j, Git, Salesforce, Zoho, Cursor, Trae, Lovable  
+
+---
+
+# ☁️ **Technology Logo Cloud**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,aws,mysql,git,github,docker,linux,figma,xd,vscode,html,css,fastapi,flask,googlecloud,tensorflow,pytorch" />
+</p>
+
+---
+
+# 💼 **Professional Timeline**
+
+## 🔹 **Project Manager – AI Product & Delivery**  
+### *Vishleshan Software Solutions Pvt. Ltd (2025–Present)*  
+- AI-driven systems for Polycab, Luminous, TMCV  
+- Managed project lifecycle & AI automation modules  
+- Built AI assistants + enterprise ML workflows  
+
+## 🔹 **Senior Project Manager – ERP & AI**  
+### *Edulab Edutech (2024–2025)*  
+- AI-enabled ERP modules: Admission, Exam, SRM  
+- Implemented flow-based student chatbots  
+- University-wide tech deployment  
+
+## 🔹 **Senior Associate Project Manager**  
+### *CHIRPN IT SOLUTIONS (2021–2024)*  
+- Led multi-team AI development  
+- Delivered enterprise digital solutions  
+
+## 🔹 **Technical Lead (UI/UX) & Web Developer**  
+### *Utkarsh Classes & Edutech Pvt. Ltd (2019–2021)*  
+- UI/UX overhaul, LMS enhancements  
+- AWS, Vimeo, JW Player media systems  
+
+## 🔹 **E-Commerce Specialist**  
+### *SIE Krishnas Group (2016–2019)*  
+- SEO/SMO, inventory, catalog management  
+
+## 🔹 **Technical Support / Data Analyst Roles (2013–2016)**  
+Handled data analysis & technical operations for global clients.
 
 ---
 
 # 🚀 **Major Projects & Leadership**
 
-### **📌 Biometric Attendance System**
-- Built secure onboarding, biometric verification, real-time device monitoring  
-- Enabled scalable student–device mapping and teacher dashboards  
-- **Tech:** Angular, Node.js, MySQL, Biometrics API
+### 📌 Biometric Attendance System  
+Tech: Angular, Node.js, MySQL  
 
-### **📌 CET Registration System**
-- Multi-factor login, admin panel, RBAC policies  
-- **Tech:** React MUI, Node.js, MySQL
+### 📌 CET Registration System  
+Tech: React MUI, Node.js, SQL  
 
-### **📌 WhatsApp + OMNI Channel Integration**
-- University workflows via WhatsApp automation  
-- **Tech:** Node.js, React, OMNI Channel APIs
+### 📌 WhatsApp + OMNI Channel Integration  
+Tech: React, Node.js, OMNI API  
 
-### **📌 WhatsApp Chatbot (Flask + Gemini + Twilio)**
-- AI response engine using Gemini 1.5  
-- **Tech:** Python, LangChain, Twilio
+### 📌 Gemini AI WhatsApp Chatbot  
+Tech: Python, LangChain, Twilio  
 
-### **📌 E-commerce AI Chatbot**
-- Intelligent product recommendations  
-- **Tech:** Python, NLP, Vector DBs
+### 📌 E-commerce AI Chatbot  
+Tech: Python, NLP, Vector DB  
 
-### **📌 Utkarsh Website & App Optimization**
-- UI/UX redesign, media optimization (Vimeo/AWS/JWPlayer)
+### 📌 Utkarsh App + Website Optimization  
+Tech: React, AWS, Vimeo, JW Player  
 
-### **📌 International Data Research System**
-- Data analytics pipeline for US-based Perfume Worldwide Inc.
+### 📌 International Data Research System  
+Tech: SQL, Excel, Analytics  
 
 ---
 
 # 🧩 **Core Capabilities**
-- AI Strategy & Solution Architecture  
+- AI Strategy & Architecture  
 - Agile & Enterprise Project Delivery  
 - Digital Transformation  
-- Data Analytics  
-- UI/UX Design  
+- UI/UX Design & Workflows  
 - Cloud Architecture  
+- Data Analytics  
+- Team Leadership  
 - Stakeholder Communication  
-- Product Innovation  
 
 ---
 
-# 📫 **Contact**
-📧 **Email:** Skk.jodhpur@gmail.com  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/ershaileshkumarkhanchandani/*  
+# 🌍 **Visitor Map**
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SkkJodhpur&label=Visitors&color=12&icon=5&pretty=true" />
+</p>
+
+---
+
+# 🐍 **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 # 📊 **GitHub Analytics**
-![Stats](https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
 # 🌐 **Newsletter: AI Revolution**
 *"AI Revolution: Transforming Our World"*  
-📬 Subscribe on LinkedIn  : https://www.linkedin.com/newsletters/7151587962542034945/
+📬 Subscribe: https://www.linkedin.com/newsletters/7151587962542034945/
 
 ---
 
-© 2025 **Shailesh Kumar Khanchandani** — All rights reserved.
+<p align="center">© 2025 <b>Shailesh Kumar Khanchandani</b> — All rights reserved.</p>
