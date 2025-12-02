@@ -98,7 +98,7 @@ AWS, Google Cloud, Docker, MySQL, Neo4j, Git, Salesforce, Zoho, Cursor, Trae, Lo
 
 ---
 
-# ☁️ **Technology Logo Cloud**
+# ☁️ **Technology Used**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,npm,js,react,wordpress,aws,jenkins,mysql,postgres,git,github,docker,linux,figma,xd,vscode,html,css,fastapi,flask,googlecloud,tensorflow,pytorch,postman" />
