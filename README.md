@@ -21,7 +21,7 @@
 **12+ Years of Diverse Industry Experience | 4+ Years in Enterprise AI, LLM Systems & Digital Transformation**
 
 Driven to build practical, scalable, and high-impact AI solutions across **education, enterprise, and government ecosystems**.  
-Expert in **LLM fine-tuning, RAG architecture, GenAI automation, system design, and enterprise AI delivery**.
+Hands on Experience in **LLM fine-tuning, RAG architecture, GenAI automation, system design, and enterprise AI delivery**.
 
 ---
 
@@ -42,7 +42,7 @@ Author of a chapter in an **Elsevier** AI publication.
 ### **Guest Faculty — MBM University, Jodhpur (2024)**
 Subjects: AI, Engineering, Networking  
 
-### **Visiting Faculty — (2025)**
+### **Guest Faculty — (2025)**
 Subjects: AI & Engineering Modules  
 
 ---
@@ -101,7 +101,7 @@ AWS, Google Cloud, Docker, MySQL, Neo4j, Git, Salesforce, Zoho, Cursor, Trae, Lo
 # ☁️ **Technology Logo Cloud**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,aws,mysql,git,github,docker,linux,figma,xd,vscode,html,css,fastapi,flask,googlecloud,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,npm,js,react,wordpress,aws,jenkins,mysql,postgres,git,github,docker,linux,figma,xd,vscode,html,css,fastapi,flask,googlecloud,tensorflow,pytorch,postman" />
 </p>
 
 ---
