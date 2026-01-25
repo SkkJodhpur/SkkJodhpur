@@ -182,4 +182,4 @@ Tech: SQL, Excel, Analytics
 
 ---
 
-<p align="center">© 2025 <b>Shailesh Kumar Khanchandani</b> — All rights reserved.</p>
+<p align="center">© 2026 <b>Shailesh Kumar Khanchandani</b> — All rights reserved.</p>
