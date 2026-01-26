@@ -8,15 +8,38 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4F46E5&center=true&vCenter=true&width=900&lines=Enterprise+AI+Architect+•+Program+Leader+•+Educator;12%2B+Years+Industry+Leadership;LLM+%7C+RAG+%7C+GenAI+%7C+System+Design;Building+Scalable+Intelligent+Platforms" />
 </p>
 
-
 <p align="center">
-  <a href="mailto:Skk.jodhpur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+<a href="https://orcid.org/0000-0003-4510-2193" target="_blank">
+<img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=flat-square&logo=orcid&logoColor=white" height="32"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+</a>
+
+<a href="https://github.com/SkkJodhpur" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Open_Source-000000?style=flat-square&logo=github&logoColor=white" height="32"/>
+</a>
+
+<a href="mailto:Skk.jodhpur@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-Contact-D44638?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+</a>
+
+<a href="https://wa.me/918946864160" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="32"/>
+</a>
+
+<a href="https://medium.com/@skk.jodhpur" target="_blank">
+<img src="https://img.shields.io/badge/Medium-Publications-000000?style=flat-square&logo=medium&logoColor=white" height="32"/>
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/skkjodhpur" target="_blank">
+<img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="32"/>
+</a>
+
 </p>
+
 
 ---
 
