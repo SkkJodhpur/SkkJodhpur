@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+•+Project+Manager+•+Educator;Enterprise+AI+%26+LLM+Architect;12%2B+Years+Industry+Leadership;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4F46E5&center=true&vCenter=true&width=900&lines=Enterprise+AI+Architect+•+Program+Leader+•+Educator;12%2B+Years+Industry+Leadership;LLM+%7C+RAG+%7C+GenAI+%7C+System+Design;Building+Scalable+Intelligent+Platforms" />
 </p>
+
 
 <p align="center">
   <a href="mailto:Skk.jodhpur@gmail.com">
@@ -191,5 +192,11 @@ AWS • GCP • Docker • Neo4j • Salesforce • Git
 ---
 
 <p align="center">
-© 2026 <b>Shailesh Kumar Khanchandani</b> — All rights reserved
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0A66C2&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+© 2026 <b>Shailesh Kumar Khanchandani</b> • Enterprise AI Architect
 </p>
