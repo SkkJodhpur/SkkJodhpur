@@ -249,7 +249,7 @@ Led multi-team enterprise product delivery and system implementations.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -258,7 +258,6 @@ Led multi-team enterprise product delivery and system implementations.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 🧩 Core Capabilities
