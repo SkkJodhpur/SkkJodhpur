@@ -145,7 +145,49 @@ AWS • GCP • Docker • Neo4j • Salesforce • Git
 # ☁️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,aws,docker,linux,git,github,figma,vscode,fastapi,flask,mysql,postgres,postman,tensorflow,pytorch,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=
+  python,
+  nodejs,
+  js,
+  react,
+  angular,
+  html,
+  css,
+  fastapi,
+  flask,
+  tensorflow,
+  pytorch,
+  aws,
+  gcp,
+  docker,
+  linux,
+  git,
+  github,
+  vscode,
+  figma,
+  mysql,
+  postgres,
+  mongodb,
+  redis,
+  postman,
+  jenkins,
+  kubernetes
+  &perline=12" />
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,gcp,docker,linux,git&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5A0FC8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine%20Tuning-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neo4j%20Graph%20AI-008CC1?style=for-the-badge"/>
 </p>
 
 ---
