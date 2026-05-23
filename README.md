@@ -6,9 +6,6 @@
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Program%20%26%20Delivery%20Manager%20•%20Enterprise%20GenAI%20Systems&descAlignY=58&descSize=18"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+Automation;AI+Program+Management+%7C+Product+Delivery;Building+Scalable+Enterprise+AI+Platforms;Educator+%7C+Researcher+%7C+AI+Value+Creator"/>
