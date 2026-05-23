@@ -340,14 +340,6 @@ DOI: `10.55041/ijsrem30773`
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SkkJodhpur/SkkJodhpur/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🎯 Leadership Capabilities
 
 ✔ Enterprise AI Strategy
