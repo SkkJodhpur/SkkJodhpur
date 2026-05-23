@@ -1,58 +1,54 @@
 <!-- ========================================================= -->
-<!--                 ENTERPRISE AI README 2026                 -->
+
+<!--               SHAILESH KUMAR KHANCHANDANI                -->
+
+<!--              ENTERPRISE AI README PROFILE                -->
+
 <!-- ========================================================= -->
 
-[<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Program%20%26%20Delivery%20Manager%20•%20Enterprise%20GenAI%20Systems%20•%20LLM%20Solutions&descAlignY=58&descSize=18"/>
-</p>](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=44&fontColor=ffffff)
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+AI+Automation;AI+Program+Management+%7C+Product+Delivery+%7C+Architecture;Building+Scalable+Enterprise+AI+Platforms;Educator+%7C+Researcher+%7C+AI+Value+Creator"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Program%20%26%20Delivery%20Manager%20•%20Enterprise%20GenAI%20Systems&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+Automation;AI+Program+Management+%7C+Product+Delivery;Building+Scalable+Enterprise+AI+Platforms;Educator+%7C+Researcher+%7C+AI+Value+Creator"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SkkJodhpur&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/SkkJodhpur?style=for-the-badge&color=0ea5e9&labelColor=111827"/>
-
-<img src="https://img.shields.io/github/stars/SkkJodhpur?style=for-the-badge&color=38bdf8&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Available%20For-Enterprise%20AI%20Consulting-2563EB?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SkkJodhpur&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/SkkJodhpur?style=for-the-badge&color=0ea5e9&labelColor=111827"/>
+  <img src="https://img.shields.io/github/stars/SkkJodhpur?style=for-the-badge&color=38bdf8&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Available%20For-Enterprise%20AI%20Consulting-2563EB?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👋 About Me
 
-## AI Program & Delivery Manager | Enterprise GenAI Systems | AI Transformation
+## AI Program & Delivery Manager | Enterprise GenAI Systems | AI Transformation Leader
 
-I build and deliver **enterprise-grade AI ecosystems** powered by:
+I design, manage, and deliver enterprise-grade AI ecosystems powered by cutting-edge technologies and scalable architectures.
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Enterprise Automation
-- AI Analytics Platforms
-- Conversational AI
-- AI Workflow Orchestration
-- Intelligent Knowledge Systems
+### Core Expertise
 
-With **12+ years of technology leadership** and **4+ years of advanced AI experience**, I specialize in transforming business operations through scalable AI solutions and enterprise engineering.
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI Systems
+* Enterprise Automation
+* AI Workflow Platforms
+* Conversational AI
+* Intelligent Analytics Systems
+* Enterprise Knowledge Platforms
+
+With **12+ years of technology leadership** and **4+ years of advanced AI expertise**, I specialize in driving enterprise transformation through scalable AI solutions, intelligent automation, and modern cloud-native architectures.
 
 ---
 
 # 🚀 Enterprise Snapshot
 
-<div align="center">
-
-| Experience | AI/LLM Expertise | Projects Delivered | Teams Led | Enterprise Systems |
-|---|---|---|---|---|
-| 12+ Years | 4+ Years | 50+ | 40+ | Multiple Domains |
-
-</div>
+| Experience | AI/LLM Expertise | Projects Delivered | Teams Led | Enterprise Systems     |
+| ---------- | ---------------- | ------------------ | --------- | ---------------------- |
+| 12+ Years  | 4+ Years         | 50+                | 40+       | Multi-Domain Platforms |
 
 ---
 
@@ -86,27 +82,21 @@ With **12+ years of technology leadership** and **4+ years of advanced AI experi
 
 # 🧠 Enterprise AI Expertise
 
-<div align="center">
-
-| Domain | Expertise |
-|---|---|
-| Enterprise AI Systems | ⭐⭐⭐⭐⭐ |
-| LLM Engineering | ⭐⭐⭐⭐⭐ |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| RAG Architecture | ⭐⭐⭐⭐⭐ |
-| AI Workflow Automation | ⭐⭐⭐⭐⭐ |
-| LangChain Ecosystems | ⭐⭐⭐⭐⭐ |
-| AI Product Delivery | ⭐⭐⭐⭐⭐ |
-| Enterprise Architecture | ⭐⭐⭐⭐⭐ |
-| AI Transformation Strategy | ⭐⭐⭐⭐⭐ |
-
-</div>
+| Domain                     | Expertise |
+| -------------------------- | --------- |
+| Enterprise AI Systems      | ⭐⭐⭐⭐⭐     |
+| LLM Engineering            | ⭐⭐⭐⭐⭐     |
+| Prompt Engineering         | ⭐⭐⭐⭐⭐     |
+| RAG Architecture           | ⭐⭐⭐⭐⭐     |
+| AI Workflow Automation     | ⭐⭐⭐⭐⭐     |
+| LangChain Ecosystems       | ⭐⭐⭐⭐⭐     |
+| AI Product Delivery        | ⭐⭐⭐⭐⭐     |
+| Enterprise Architecture    | ⭐⭐⭐⭐⭐     |
+| AI Transformation Strategy | ⭐⭐⭐⭐⭐     |
 
 ---
 
-# 🏗 AI Ecosystem & Technology Stack
-
----
+# 🏗 Technology Ecosystem
 
 ## 🧠 AI • ML • GenAI
 
@@ -115,19 +105,19 @@ With **12+ years of technology leadership** and **4+ years of advanced AI experi
 </p>
 
 <p align="center">
-LLMs • LangChain • LlamaIndex • OpenAI • Gemini • HuggingFace • RAG • AI Agents • Prompt Engineering
+OpenAI • Gemini • LangChain • LlamaIndex • HuggingFace • AI Agents • RAG • Prompt Engineering
 </p>
 
 ---
 
-## ⚙ Backend & Enterprise APIs
+## ⚙ Backend & APIs
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask"/>
 </p>
 
 <p align="center">
-FastAPI • Node.js • REST APIs • Workflow Automation • Microservices
+FastAPI • Flask • Node.js • REST APIs • Workflow Automation • Enterprise Microservices
 </p>
 
 ---
@@ -139,7 +129,7 @@ FastAPI • Node.js • REST APIs • Workflow Automation • Microservices
 </p>
 
 <p align="center">
-React • Angular • Enterprise Dashboards • SaaS Platforms • UI Systems
+React • Angular • Enterprise Dashboards • SaaS Platforms • Modern UI Systems
 </p>
 
 ---
@@ -151,7 +141,7 @@ React • Angular • Enterprise Dashboards • SaaS Platforms • UI Systems
 </p>
 
 <p align="center">
-AWS • Docker • Kubernetes • CI/CD • DevOps • Cloud Architecture
+AWS • Docker • Kubernetes • Linux • CI/CD • Cloud Architecture
 </p>
 
 ---
@@ -163,116 +153,120 @@ AWS • Docker • Kubernetes • CI/CD • DevOps • Cloud Architecture
 </p>
 
 <p align="center">
-MySQL • PostgreSQL • MongoDB • Redis • Graph DB • Vector Databases
+MySQL • PostgreSQL • MongoDB • Redis • Vector Databases • Graph Databases
 </p>
 
 ---
 
-# 🚀 Enterprise AI Platforms
-
----
+# 🚀 Featured Enterprise AI Platforms
 
 ## 🤖 FNI AI Platform
+
 ### Agentic AI Workflow Ecosystem
 
-Enterprise-grade AI workflow platform designed for finance & insurance operations.
+Enterprise-grade AI workflow platform designed for finance and insurance automation.
 
-### Core Capabilities
-✔ Intelligent Lead Distribution  
-✔ Multi-Agent Workflow Systems  
-✔ AI-based Routing  
-✔ Real-Time Workflow Automation  
+### Key Capabilities
+
+✔ Intelligent Lead Distribution
+✔ Multi-Agent Coordination
+✔ AI Workflow Synchronization
+✔ Enterprise Automation
 
 ### Business Impact
-- 65% Faster Lead Processing
-- AI Workflow Synchronization
-- Enterprise Automation Scaling
 
-### Stack
+* 65% Faster Lead Processing
+* Intelligent Workflow Routing
+* Real-Time AI Operations
+
+### Technology Stack
+
 `Python` `FastAPI` `React` `LangChain` `AI Agents`
 
 ---
 
 ## 🧠 AI RAG Platform
+
 ### Enterprise Knowledge Intelligence System
 
-AI-powered semantic knowledge retrieval and enterprise document intelligence system.
+AI-powered semantic knowledge retrieval and enterprise document intelligence platform.
 
 ### Features
-✔ Semantic Search  
-✔ AI Question Generation  
-✔ Knowledge Extraction  
-✔ Document Intelligence  
 
-### Stack
+✔ Semantic Search
+✔ AI Question Generation
+✔ Knowledge Extraction
+✔ Contextual Retrieval
+
+### Technology Stack
+
 `LangChain` `LlamaIndex` `FastAPI` `Vector DB`
 
 ---
 
 ## 💬 WhatsApp AI Assistant
-### Conversational AI Automation Platform
+
+### Conversational AI Automation
 
 Enterprise conversational AI assistant enabling intelligent communication workflows.
 
 ### Features
-✔ Context-Aware Conversations  
-✔ AI Automation  
-✔ LLM-Powered Responses  
-✔ Workflow Integration  
 
-### Stack
+✔ Context-Aware Conversations
+✔ AI Automation
+✔ Workflow Integration
+✔ Intelligent Responses
+
+### Technology Stack
+
 `Gemini` `Python` `LangChain` `Twilio`
 
 ---
 
 # 🏢 Enterprise Experience
 
----
-
 ## 🚀 Vishleshan Software Solutions Pvt. Ltd
+
 ### Project Manager – AI Product & Delivery Manager
 
 Leading enterprise AI initiatives involving:
 
-- AI Workflow Platforms
-- AI Automation Ecosystems
-- Enterprise Analytics Systems
-- Intelligent Assistants
+* AI Workflow Platforms
+* Intelligent Automation Systems
+* Enterprise Analytics Platforms
+* AI Assistants & Copilots
 
 ### Enterprise Clients
-- Polycab
-- Luminous
-- TMCV
 
-### Focus Areas
-✔ AI Product Delivery  
-✔ Enterprise Communication  
-✔ Agile Execution  
-✔ Stakeholder Management  
+* Polycab
+* Luminous
+* TMCV
 
 ---
 
 ## 🚀 Edulab Edutech
+
 ### Senior Project Manager
 
 Led implementation of:
 
-- University ERP Systems
-- AI Student Automation
-- LMS Platforms
-- AI-powered Modules
+* University ERP Systems
+* AI-powered Student Platforms
+* LMS Ecosystems
+* Enterprise Automation Modules
 
 ---
 
 ## 🚀 CHIRPN IT Solutions
+
 ### Senior Associate Project Manager
 
-Managed multi-team enterprise deliveries involving:
+Managed enterprise technology deliveries involving:
 
-- AI Technologies
-- Product Engineering
-- Agile Transformation
-- Enterprise Workflows
+* AI Technologies
+* Product Engineering
+* Agile Transformation
+* Enterprise System Workflows
 
 ---
 
@@ -281,61 +275,62 @@ Managed multi-team enterprise deliveries involving:
 ## 👨‍🏫 Academic Roles
 
 ### Guest Faculty — MBM University
+
 Subjects:
-- Artificial Intelligence
-- Computer Networks
-- Engineering Systems
+
+* Artificial Intelligence
+* Computer Networks
+* Engineering Systems
 
 ### Visiting Faculty — Mumbai Institutes
-Teaching:
-- AI Systems
-- Analytics
-- Engineering Modules
+
+Teaching Areas:
+
+* AI Systems
+* Analytics
+* Engineering Modules
 
 ---
 
 # 📚 Publications & Research
 
 ## 📘 Harnessing Artificial Intelligence to Ensure Diverse Global Teams
+
 ### Elsevier Publication
 
-ISBN: 9780443341359
+ISBN: `9780443341359`
 
 ---
 
 ## 📘 MANET Routing Protocols Using NS-3
+
 ### IJSREM Journal — 2024
 
-DOI: 10.55041/ijsrem30773
+DOI: `10.55041/ijsrem30773`
 
 ---
 
 # 🏆 Certifications
 
-✔ PMP® Training – PMI  
-✔ Generative AI – Google Cloud  
-✔ LangChain & LlamaIndex  
-✔ Neo4j & LLM Fundamentals  
-✔ AI for All – Intel  
-✔ AWS DevOps Automation  
-✔ OpenAI & Generative AI Systems  
+✔ PMP® Training – PMI
+✔ Generative AI – Google Cloud
+✔ LangChain & LlamaIndex
+✔ Neo4j & LLM Fundamentals
+✔ AI for All – Intel
+✔ AWS DevOps Automation
+✔ OpenAI & Generative AI Systems
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkkJodhpur&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkkJodhpur&theme=tokyo-night"/>
 </p>
 
 ---
@@ -343,9 +338,7 @@ DOI: 10.55041/ijsrem30773
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SkkJodhpur&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SkkJodhpur&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -353,35 +346,35 @@ DOI: 10.55041/ijsrem30773
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SkkJodhpur/SkkJodhpur/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SkkJodhpur/SkkJodhpur/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🎯 Core Leadership Capabilities
+# 🎯 Leadership Capabilities
 
-✔ Enterprise AI Strategy  
-✔ AI Transformation  
-✔ AI Program Management  
-✔ Product Delivery Leadership  
-✔ Agile Project Execution  
-✔ Stakeholder Communication  
-✔ Enterprise Architecture  
-✔ Technical Advisory  
-✔ Team Leadership  
+✔ Enterprise AI Strategy
+✔ AI Transformation
+✔ AI Program Management
+✔ Product Delivery Leadership
+✔ Enterprise Architecture
+✔ Technical Advisory
+✔ Stakeholder Communication
+✔ Agile Execution
+✔ Team Leadership
 
 ---
 
 # 🌍 Current Focus Areas
 
-- Agentic AI Platforms
-- AI Workflow Automation
-- Enterprise GenAI Systems
-- AI Governance
-- Multi-Agent AI Systems
-- LLM Fine-Tuning
-- AI Analytics Platforms
-- AI SaaS Ecosystems
+* Agentic AI Platforms
+* Enterprise GenAI Systems
+* AI Workflow Automation
+* Multi-Agent Systems
+* AI Governance
+* AI Analytics Platforms
+* AI SaaS Ecosystems
+* Enterprise AI Adoption
 
 ---
 
@@ -392,13 +385,13 @@ User
    ↓
 Enterprise APIs
    ↓
-LangChain / AI Workflow
+AI Workflow Layer
    ↓
 Vector Database
    ↓
 LLM / AI Models
    ↓
-AI Response Engine
+AI Intelligence Engine
    ↓
 Enterprise Automation
 ```
@@ -409,22 +402,22 @@ Enterprise Automation
 
 ## Available For
 
-✔ Enterprise AI Consulting  
-✔ AI Product Leadership  
-✔ AI Architecture Consulting  
-✔ GenAI Transformation  
-✔ Technical Advisory  
-✔ AI Delivery Management  
-✔ Enterprise Automation Projects  
-✔ Academic Collaboration  
+✔ Enterprise AI Consulting
+✔ AI Product Leadership
+✔ AI Architecture Consulting
+✔ GenAI Transformation
+✔ Technical Advisory
+✔ Enterprise Automation Projects
+✔ AI Delivery Management
+✔ Academic Collaboration
 
 ---
 
 # 📬 Contact Information
 
-📍 Mumbai, India  
-📧 skk.jodhpur@gmail.com  
-📞 +91-8946864160  
+📍 Mumbai, India
+📧 [skk.jodhpur@gmail.com](mailto:skk.jodhpur@gmail.com)
+📞 +91-8946864160
 
 ---
 
@@ -435,13 +428,9 @@ Enterprise Automation
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:38BDF8,50:2563EB,100:020617&section=footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,50:2563EB,100:38BDF8&section=footer"/>
 </p>
 
 <p align="center">
-  
-### ⭐ Enterprise AI & GenAI Delivery Leader ⭐
-
+  <b>⭐ Enterprise AI & GenAI Delivery Leader ⭐</b>
 </p>
