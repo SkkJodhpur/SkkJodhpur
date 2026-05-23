@@ -2,9 +2,10 @@
 <!--                 ENTERPRISE AI README 2026                 -->
 <!-- ========================================================= -->
 
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Program%20%26%20Delivery%20Manager%20•%20Enterprise%20GenAI%20Systems%20•%20LLM%20Solutions&descAlignY=58&descSize=18"/>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontSize=44&fontColor=ffffff)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+AI+Automation;AI+Program+Management+%7C+Product+Delivery+%7C+Architecture;Building+Scalable+Enterprise+AI+Platforms;Educator+%7C+Researcher+%7C+AI+Value+Creator"/>
