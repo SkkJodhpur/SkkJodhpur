@@ -462,11 +462,11 @@ Enterprise AI Architecture
 
 ---
 
-## 🏢 Kajaria One
+## 🏢 K One
 
 ### Enterprise Sales & Distribution Platform
 
-AI-enabled multi-tenant field sales ecosystem developed for Kajaria Ceramics to automate dealer operations, sales workflows, lead management, order processing, SAP synchronization, GPS attendance and executive dashboards.
+AI-enabled multi-tenant field sales ecosystem developed for K to automate dealer operations, sales workflows, lead management, order processing, SAP synchronization, GPS attendance and executive dashboards.
 
 ### Enterprise Modules
 
@@ -508,7 +508,7 @@ AI-enabled multi-tenant field sales ecosystem developed for Kajaria Ceramics to 
 
 ---
 
-## 🚗 Tata Motors F&I AI
+## 🚗 Agentic Finance & Insurance Automation
 
 ### Agentic Finance & Insurance Automation
 
@@ -543,7 +543,7 @@ Enterprise AI platform built for Finance & Insurance operations to automate lead
 
 ---
 
-## 💡 Lumi AI
+## 💡 Sales Ai
 
 ### Enterprise Sales Intelligence Platform
 
@@ -779,7 +779,7 @@ State-level application processing platform supporting large-scale student regis
 
 ---
 
-## 🛒 eDukaan
+## 🛒 Dealer Commerce
 
 ### Automotive Commerce Platform
 
