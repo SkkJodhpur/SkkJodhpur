@@ -701,7 +701,7 @@ Deployment
 
 ---
 
-## 🚚 Polycab Dealer Platform
+## 🚚 Dealer Platform
 
 ### Dealer Ordering & Distribution Ecosystem
 
