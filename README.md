@@ -416,51 +416,6 @@ Enterprise AI Architecture
 
 # 🏗 Featured Enterprise Platforms
 
----
-
-## 🌉 BridgeX
-
-### Enterprise Integration Platform (iPaaS)
-
-> Unified enterprise integration platform connecting ERP, CRM, partner systems, messaging platforms and business applications through a scalable API ecosystem.
-
-### Key Highlights
-
-- Multi-Tenant iPaaS Platform
-- Hexagonal Architecture
-- Canonical Data Mapping
-- Enterprise Workflow Engine
-- API Gateway
-- RabbitMQ Messaging
-- Secure Authentication
-- Operational Dashboard
-- Docker & Kubernetes Ready
-- AWS Cloud Deployment
-
-### Technology
-
-`Java 21`
-`Spring Boot`
-`React`
-`Next.js`
-`PostgreSQL`
-`Redis`
-`RabbitMQ`
-`Docker`
-`Kubernetes`
-`AWS`
-
-### Business Impact
-
-✅ Unified enterprise integrations
-
-✅ Reduced manual integrations
-
-✅ Production-ready modular architecture
-
-✅ Enterprise workflow orchestration
-
----
 
 ## 🏢 K One
 
