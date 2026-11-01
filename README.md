@@ -1,1361 +1,287 @@
-<!-- ========================================================= -->
-<!--               SHAILESH KUMAR KHANCHANDANI                -->
-<!--          Enterprise AI | GenAI | Product Leader          -->
-<!-- ========================================================= -->
+<!-- SHAILESH KUMAR KHANCHANDANI | Enterprise AI Leader | GitHub Profile README v2 -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Enterprise+AI+Transformation+Leader;GenAI+%7C+LLM+%7C+RAG+%7C+Agentic+AI;AI+Program+%26+Product+Delivery;Building+Scalable+Enterprise+AI+Platforms;Educator+%7C+Researcher+%7C+Technical+Leader"/>
+<a id="top"></a>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:1D4ED8,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Enterprise%20AI%20%E2%80%A2%20GenAI%20%E2%80%A2%20Product%20%26%20Delivery%20Leadership&descAlignY=62&descSize=17"/>
+  <img width="100%" alt="Shailesh Kumar Khanchandani" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Enterprise%20AI%20%E2%80%A2%20GenAI%20%E2%80%A2%20Product%20%26%20Delivery%20Leadership&descAlignY=62&descSize=17"/>
+</picture>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MCP;AI+Program+%26+Product+Delivery;Educator+%7C+Researcher+%7C+Technical+Leader"/>
+
+<p>
+<a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:skk.jodhpur@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://skkjodhpur.com"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://orcid.org/0000-0003-4510-2193"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://wa.me/918946864160"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SkkJodhpur&label=Profile%20Views&style=flat-square&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/SkkJodhpur?style=flat-square&color=0EA5E9&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Open%20To-Enterprise%20AI%20Consulting-2563EB?style=flat-square"/>
 
-<img src="https://komarev.com/ghpvc/?username=SkkJodhpur&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
+<br/><br/>
 
-<img src="https://img.shields.io/github/followers/SkkJodhpur?style=for-the-badge&color=0EA5E9&labelColor=111827"/>
+**[About](#about) • [Impact](#impact) • [Platforms](#platforms) • [Architecture](#architecture) • [Stack](#stack) • [Career](#career) • [Research](#research) • [Contact](#contact)**
 
-<img src="https://img.shields.io/github/stars/SkkJodhpur?style=for-the-badge&color=38BDF8&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Enterprise%20AI%20Consulting-2563EB?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 👋 Hello, I'm Shailesh Kumar Khanchandani
+<a id="about"></a>
+## 👋 About
 
-## Enterprise AI Transformation Leader • AI Product & Delivery Manager • Technical Consultant
+> [!NOTE]
+> **12+ years** in enterprise software, **4+ years** focused on LLM, RAG and agentic AI, delivering for Manufacturing, Automotive, Education, Finance and Enterprise SaaS.
 
-I specialize in designing, delivering, and scaling enterprise-grade Artificial Intelligence ecosystems that solve real business challenges.
+I design, deliver and scale **enterprise-grade AI ecosystems** that solve real business problems. My work sits where **architecture, product strategy, engineering leadership and delivery** meet.
 
-Over the last **12+ years**, I have led enterprise software engineering, digital transformation initiatives, and AI product delivery across Manufacturing, Automotive, Education, Finance, Analytics, and Enterprise SaaS domains.
-
-During the past **4+ years**, my primary focus has been building modern AI platforms powered by:
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- AI Workflow Automation
-- Enterprise Copilots
-- Knowledge Intelligence Platforms
-- AI Analytics Systems
-- Multi-Agent Architectures
-
-My work combines **technical architecture**, **product strategy**, **engineering leadership**, and **enterprise delivery**, enabling organizations to modernize operations through scalable AI solutions.
+| 🏗 What I Build | 🧭 What I Lead |
+|---|---|
+| Enterprise AI platforms & copilots | Enterprise AI strategy |
+| Agentic & multi-agent workflows | Product roadmaps & releases |
+| Enterprise RAG & knowledge systems | Agile program delivery |
+| Integration platforms (SAP, CRM) | Cross-functional teams (40+ engineers) |
+| AI analytics & SaaS products | Stakeholder & executive reporting |
 
 ---
 
-# 🚀 Enterprise Snapshot
+<a id="impact"></a>
+## 📈 Impact
 
-| Experience | AI Expertise | Enterprise Projects | Teams Led | Industries |
-|------------|-------------|---------------------|-----------|------------|
-| **12+ Years** | **4+ Years** | **50+** | **40+ Engineers** | Manufacturing, Automotive, Education, ERP, Finance, Analytics |
+<div align="center">
 
----
+| 📦 Projects | 🤖 AI Platforms | 🔌 APIs | 🔗 Integrations | ⚙️ AI Workflows | 🚀 Deployments | 👥 Users |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **50+** | **15+** | **250+** | **30+** | **100+** | **300+** | **100K+** |
 
-# 🌍 What I Build
+**Clients:** Kajaria Ceramics • Tata Motors • Luminous • Polycab • Universities
 
-✔ Enterprise AI Platforms
-
-✔ AI Agents & Agentic Workflows
-
-✔ Enterprise RAG Systems
-
-✔ AI Copilots
-
-✔ AI Workflow Automation
-
-✔ Enterprise Integration Platforms
-
-✔ SaaS Products
-
-✔ AI Analytics Platforms
-
-✔ Knowledge Intelligence Systems
-
-✔ AI Product Strategy
+</div>
 
 ---
 
-# 💼 Current Responsibilities
-
-- Enterprise AI Strategy
-- Product Delivery Leadership
-- AI Architecture
-- Enterprise Automation
-- Technical Consulting
-- Stakeholder Management
-- Agile Program Delivery
-- Cross-functional Team Leadership
-
----
-
-# 🎯 Professional Highlights
-
-🏆 12+ Years of Technology Leadership
-
-🤖 4+ Years in Enterprise AI & GenAI
-
-🚀 50+ Enterprise Projects Delivered
-
-👥 Led Engineering Teams of 40+ Professionals
-
-🏢 Enterprise Clients including:
-
-- Kajaria Ceramics
-- Tata Motors
-- Luminous
-- Polycab
-- Multiple Universities
-- Manufacturing Enterprises
-- Automotive Organizations
-
-📚 Published Research Author
-
-🎓 Guest Faculty & AI Educator
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:skk.jodhpur@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SkkJodhpur">
-<img src="https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github"/>
-</a>
-
-
-<a href="https://orcid.org/0000-0003-4510-2193">
-<img src="https://img.shields.io/badge/ORCID-Research-8BC34A?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/918946864160">
-<img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
-
-
-# 🧠 Enterprise AI Expertise
+<a id="platforms"></a>
+## 🚀 Featured Platforms
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 Artificial Intelligence
-
-- ⭐⭐⭐⭐⭐ Enterprise AI Systems
-- ⭐⭐⭐⭐⭐ Generative AI
-- ⭐⭐⭐⭐⭐ Large Language Models (LLMs)
-- ⭐⭐⭐⭐⭐ Retrieval-Augmented Generation (RAG)
-- ⭐⭐⭐⭐⭐ Agentic AI
-- ⭐⭐⭐⭐⭐ AI Workflow Automation
-- ⭐⭐⭐⭐⭐ Prompt Engineering
-- ⭐⭐⭐⭐⭐ AI Product Development
-- ⭐⭐⭐⭐⭐ Enterprise AI Strategy
-- ⭐⭐⭐⭐⭐ Conversational AI
+### 🏢 Kajaria One
+**Sales & Distribution Platform**
+Multi-tenant field-sales ecosystem: dealers, leads, orders, SAP sync, GPS attendance, dashboards.
+<br/>`Java` `Spring Boot` `Next.js` `SAP CPI` `PostgreSQL` `AWS`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🚗 Agentic F&I Automation
+**Finance & Insurance AI**
+Multi-agent lead routing and workflow orchestration. **65% faster lead processing.**
+<br/>`Java` `Angular` `AI Agents`
 
-## 🏗 Enterprise Engineering
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-- ⭐⭐⭐⭐⭐ Enterprise Architecture
-- ⭐⭐⭐⭐⭐ System Design
-- ⭐⭐⭐⭐⭐ Cloud Architecture
-- ⭐⭐⭐⭐⭐ API Design
-- ⭐⭐⭐⭐⭐ Integration Architecture
-- ⭐⭐⭐⭐⭐ Product Delivery
-- ⭐⭐⭐⭐⭐ Agile Leadership
-- ⭐⭐⭐⭐⭐ Stakeholder Management
-- ⭐⭐⭐⭐⭐ Technical Consulting
-- ⭐⭐⭐⭐⭐ Solution Architecture
+### 🧠 Enterprise RAG Platform
+**Knowledge Intelligence**
+Natural-language enterprise search with knowledge graph and citation engine.
+<br/>`Python` `FastAPI` `LangChain` `LlamaIndex`
+
+</td>
+<td valign="top">
+
+### 💬 WhatsApp AI Assistant
+**Conversational AI**
+Memory-aware chat, CRM integration, workflow execution, human escalation.
+<br/>`Gemini` `LangChain` `Twilio`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤖 AutoCar AI
+**Autonomous SDLC**
+Requirements → JIRA → AI coding agents → Tests → GitHub Actions → Deploy.
+<br/>`Golang` `React` `JIRA APIs`
+
+</td>
+<td valign="top">
+
+### 💡 Sales AI
+**Sales Intelligence**
+KPI dashboards, predictive analytics and dealer insights.
+<br/>`Python` `FastAPI` `React`
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>📂 More platforms</b></summary>
+<br/>
 
-# 🚀 Technology Ecosystem
+| Platform | Scope | Stack |
+|---|---|---|
+| 🚚 **Dealer Platform** | Ordering, inventory, procurement, mobile app | `React` `React Native` `Node.js` |
+| 🛒 **Dealer Commerce** | Dealer portal, orders, tracking, procurement | E-commerce |
+| 🎓 **University ERP** | Admissions, SIS, exams, LMS, fees, HR, payroll, AI assistant | ERP |
+| 📝 **CET Registration** | State-level, high-availability registrations | Secure auth, RBAC |
+| 📲 **Biometric Attendance** | Device management, verification, monitoring | Real-time analytics |
+| 🏅 **Sportly** | Athlete performance and health analytics | Dashboards |
 
-## 🧠 AI • Machine Learning • Generative AI
+</details>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-<p align="center">
-
-OpenAI • Azure OpenAI • Google Gemini • Claude • LangChain • LangGraph • LlamaIndex • Hugging Face • CrewAI • AutoGen • MCP • AI Agents • RAG • Prompt Engineering • Fine Tuning • Vector Search
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,nodejs"/>
-
-</p>
-
-<p align="center">
-
-Java • Python • JavaScript • TypeScript • Golang • Node.js
-
-</p>
+<p align="right"><a href="#top">⬆ back to top</a></p>
 
 ---
 
-## ⚙ Backend Engineering
+<a id="architecture"></a>
+## 🏗 Reference Architecture
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs"/>
-
-</p>
-
-<p align="center">
-
-Spring Boot • FastAPI • Flask • Express • REST APIs • GraphQL • JWT • OAuth2 • Enterprise Microservices
-
-</p>
-
----
-
-## 🌐 Frontend Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind"/>
-
-</p>
-
-<p align="center">
-
-React • Next.js • Angular • TypeScript • HTML5 • CSS3 • Tailwind CSS • Responsive UI • Enterprise Dashboards
-
-</p>
-
----
-
-## ☁ Cloud & Infrastructure
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx"/>
-
-</p>
-
-<p align="center">
-
-AWS • EC2 • ECS • ECR • RDS • S3 • CloudFront • GCP • Docker • Kubernetes • Linux • Nginx • Terraform • CI/CD
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-
-</p>
-
-<p align="center">
-
-PostgreSQL • MySQL • SQL Server • MongoDB • Redis • Vector Databases • Neo4j • Pinecone • Qdrant • ChromaDB
-
-</p>
-
----
-
-## 🔄 Integration & Messaging
-
-<p align="center">
-
-SAP CPI • Salesforce • Zoho CRM • RabbitMQ • Kafka • Twilio • WhatsApp APIs • REST APIs • Webhooks • Enterprise Integration
-
-</p>
-
----
-
-## ⚡ DevOps & Automation
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes"/>
-
-</p>
-
-<p align="center">
-
-Git • GitHub • GitHub Actions • Jenkins • Docker • Kubernetes • CI/CD Pipelines • DevSecOps • Infrastructure Automation
-
-</p>
-
----
-
-## 📊 Analytics & Business Intelligence
-
-- AI Analytics Platforms
-- Predictive Analytics
-- Sales Intelligence
-- Executive Dashboards
-- KPI Monitoring
-- Business Reporting
-- Data Visualization
-- Enterprise Reporting
-- Operational Intelligence
-
----
-
-## 🏢 Enterprise Platforms
-
-- ERP Systems
-- CRM Platforms
-- Dealer Management Systems
-- Learning Management Systems
-- University ERP
-- Enterprise SaaS
-- Financial Systems
-- Manufacturing Platforms
-- Automotive Solutions
-
----
-
-# 🛠 Professional Toolbox
-
-| Category | Technologies |
-|----------|--------------|
-| AI | OpenAI, Gemini, LangChain, LangGraph, LlamaIndex, CrewAI, MCP |
-| Backend | Spring Boot, FastAPI, Flask, Node.js |
-| Frontend | React, Next.js, Angular |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis, Neo4j |
-| Cloud | AWS, Docker, Kubernetes |
-| DevOps | Jenkins, GitHub Actions, Terraform |
-| Enterprise | SAP CPI, Salesforce, Zoho CRM |
-| Messaging | RabbitMQ, Kafka, Twilio |
-| Project Management | Jira, Confluence, Trello, MS Planner |
-| Design | Figma, Adobe XD |
-| AI IDEs | Cursor, Trae, Lovable |
-
----
-
-# 💡 Core Competencies
-
-```text
-Enterprise AI Architecture
-        │
-        ├── Large Language Models
-        ├── Agentic AI
-        ├── Enterprise RAG
-        ├── AI Workflow Automation
-        ├── Enterprise APIs
-        ├── Cloud Native Systems
-        ├── Multi-Agent Systems
-        ├── Product Delivery
-        ├── Technical Leadership
-        └── Digital Transformation
+```mermaid
+flowchart TB
+    U["Web • Mobile • APIs"] --> G["API Gateway + Auth"]
+    G --> M["Business Microservices"]
+    M --> A
+    subgraph A["AI Intelligence Layer"]
+      direction LR
+      AG["Agents"] --- R["RAG Engine"] --- C["Copilot"] --- P["Prompt Mgmt"] --- W["Workflows"]
+    end
+    A --> V[("Vector DB + Redis")]
+    A --> D[("PostgreSQL • MongoDB")]
+    M --> E["SAP • Salesforce • Zoho"]
+    D --> CL["AWS Cloud"]
 ```
 
 ---
 
-# 📈 Areas of Specialization
+<a id="stack"></a>
+## 🛠 Tech Stack
 
-✅ Enterprise AI Transformation
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,typescript,go,nodejs,spring,fastapi,react,nextjs,angular,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,githubactions,jenkins,git&perline=10"/>
+</div>
 
-✅ AI Product Strategy
+<details open>
+<summary><b>🤖 AI / GenAI</b></summary>
 
-✅ AI Program Management
+OpenAI • Azure OpenAI • Gemini • Claude • LangChain • LangGraph • LlamaIndex • CrewAI • AutoGen • MCP • Hugging Face • Fine-tuning • Vector Search
+</details>
 
-✅ AI Delivery Leadership
+<details>
+<summary><b>⚙️ Backend, Frontend & Data</b></summary>
 
-✅ Enterprise Software Architecture
+**Backend:** Spring Boot • FastAPI • Flask • Node.js • REST • GraphQL • OAuth2 • JWT
+**Frontend:** React • Next.js • Angular • TypeScript • Tailwind CSS
+**Data:** PostgreSQL • MySQL • SQL Server • MongoDB • Redis • Neo4j • Pinecone • Qdrant • ChromaDB
+</details>
 
-✅ Digital Transformation
+<details>
+<summary><b>☁️ Cloud, DevOps & Integration</b></summary>
 
-✅ Intelligent Workflow Automation
+**Cloud:** AWS (EC2, ECS, ECR, RDS, S3, CloudFront) • GCP • Docker • Kubernetes • Terraform
+**DevOps:** Git • GitHub Actions • Jenkins • CI/CD • DevSecOps
+**Integration:** SAP CPI • Salesforce • Zoho CRM • Kafka • RabbitMQ • Twilio • WhatsApp APIs • Webhooks
+</details>
 
-✅ Multi-Agent AI Systems
+<details>
+<summary><b>🧰 Delivery, Design & AI IDEs</b></summary>
 
-✅ Knowledge Intelligence Platforms
-
-✅ Enterprise SaaS Architecture
-
-✅ Cloud-Native Engineering
-
-✅ Cross-Functional Leadership
-
-# 🚀 Enterprise AI & Digital Transformation Portfolio
-
-> **Building production-grade enterprise platforms that combine Artificial Intelligence, cloud-native engineering, enterprise integrations, and scalable software architecture.**
-
----
-
-## 📈 Portfolio Highlights
-
-| Experience | Enterprise Projects | Industries | AI Platforms | Enterprise Clients |
-|------------|---------------------|------------|--------------|-------------------|
-| **12+ Years** | **50+** | **Automotive • Manufacturing • Education • Finance • SaaS** | **15+** | **Kajaria • Tata Motors • Polycab • Luminous • Universities** |
+Jira • Confluence • Trello • MS Planner • Figma • Adobe XD • Cursor • Trae • Lovable
+</details>
 
 ---
 
-# 🏗 Featured Enterprise Platforms
+<a id="career"></a>
+## 🏢 Career
 
+```mermaid
+timeline
+    title Career Journey
+    Early career : Senior Data Analyst : Business Development & Support : Buyer Coordination & E-Commerce : Technical Lead, Utkarsh Classes
+    2021 - 2024 : CHIRPN IT Solutions : Senior Associate Project Manager : AutoCar AI, Sportly, Salesforce
+    2024 - 2025 : Edulab Edutech : Senior Project Manager : University ERP, LMS, CET
+    2025 - Now : Vishleshan Software Solutions : AI Product & Delivery Manager : Kajaria One, Tata Motors F&I AI, RAG
+```
 
-## 🏢 K One
+<details>
+<summary><b>Role details</b></summary>
 
-### Enterprise Sales & Distribution Platform
+**Vishleshan Software Solutions** (Aug 2025 – Present): enterprise AI strategy, workflow automation, roadmaps; platforms include BridgeX, Kajaria One, Tata Motors F&I AI, Lumi AI, RAG, WhatsApp AI, eDukaan.
 
-AI-enabled multi-tenant field sales ecosystem developed for K to automate dealer operations, sales workflows, lead management, order processing, SAP synchronization, GPS attendance and executive dashboards.
+**Edulab Edutech** (Sep 2024 – Jul 2025): university ERP, student lifecycle, admissions, exams, LMS, CET, WhatsApp communication, biometric attendance.
 
-### Enterprise Modules
+**CHIRPN IT Solutions** (Jul 2021 – Jul 2024): Agile delivery, sprint management, UAT, technical consulting.
 
-- Dealer Management
-- Sales Executive App
-- Lead Management
-- Opportunity Pipeline
-- Order Processing
-- Quotation System
-- GPS Attendance
-- PJP Planning
-- Influencer Management
-- Executive Dashboards
-- Notification Engine
-- Approval Workflow
-
-### Technology
-
-`Java`
-`Spring Boot`
-`Next.js`
-`React`
-`SAP CPI`
-`PostgreSQL`
-`Redis`
-`AWS`
-
-### Business Outcomes
-
-✔ Complete Sales Automation
-
-✔ SAP Integration
-
-✔ Multi-Tenant Platform
-
-✔ Enterprise Workflow Automation
-
-✔ Cloud Deployment
+</details>
 
 ---
 
-## 🚗 Agentic Finance & Insurance Automation
+<a id="research"></a>
+## 🎓 Research & Academia
 
-### Agentic Finance & Insurance Automation
+| 📘 Publication | Venue |
+|---|---|
+| Harnessing Artificial Intelligence to Ensure Diverse Global Teams | Elsevier, ISBN `9780443341359` |
+| Comparative Analysis of MANET Routing Protocols Using NS-3 | IJSREM, DOI `10.55041/ijsrem30773` |
+| Small Language Models for Real-World AI | Research on SLMs & hybrid AI |
 
-Enterprise AI platform built for Finance & Insurance operations to automate lead routing, workflow orchestration and intelligent agent collaboration.
+**Faculty:** MBM University Jodhpur • HSNC University Mumbai • IAQS Institute Mumbai
 
-### AI Capabilities
+<details>
+<summary><b>🏆 Certifications</b></summary>
 
-- AI Lead Distribution
-- Multi-Agent Coordination
-- Decision Automation
-- Workflow Intelligence
-- Enterprise Dashboards
-- Real-time Monitoring
-
-### Stack
-
-`Java`
-
-`Angular`
-
-`AI Agents`
-
-`REST APIs`
-
-### Business Impact
-
-🚀 65% Faster Lead Processing
-
-🚀 Intelligent Workflow Automation
-
-🚀 Real-Time Operations
+PMP® Training (PMI) • Google Generative AI • Gemini AI (Google Cloud) • IBM AI • Neo4j & LLM Fundamentals • LangChain & LlamaIndex (iNeuron) • Intel AI For All • AWS DevOps • Responsible AI (LinkedIn Learning)
+</details>
 
 ---
 
-## 💡 Sales Ai
+## 🎯 Now
 
-### Enterprise Sales Intelligence Platform
+- [x] Enterprise GenAI platforms & agentic systems
+- [x] Enterprise RAG and AI copilots
+- [ ] Small Language Models, AI governance, evaluation frameworks (research)
 
-AI-powered analytics platform delivering business intelligence for dealers, retailers, distributors and enterprise sales teams.
-
-### Features
-
-- KPI Dashboards
-- Predictive Analytics
-- AI Reports
-- Sales Intelligence
-- Dealer Analytics
-- Executive Insights
-
-### Technology
-
-`Python`
-
-`FastAPI`
-
-`React`
-
-`PostgreSQL`
-
-`REST APIs`
-
-### Impact
-
-✔ Real-time analytics
-
-✔ Business intelligence
-
-✔ Executive dashboards
-
-✔ AI-powered insights
+> [!TIP]
+> Open to **enterprise AI consulting**, product architecture, modernization, guest lectures and research collaboration.
 
 ---
 
-## 🧠 Enterprise AI RAG Platform
-
-### Enterprise Knowledge Intelligence System
-
-Retrieval-Augmented Generation platform enabling organizations to search enterprise knowledge using natural language.
-
-### Features
-
-- Semantic Search
-- Knowledge Graph
-- Document Intelligence
-- Context Retrieval
-- AI Question Generation
-- Citation Engine
-
-### Stack
-
-`Python`
-
-`FastAPI`
-
-`LangChain`
-
-`LlamaIndex`
-
-`Vector Database`
-
-`OpenAI`
-
-### Business Outcomes
-
-- Enterprise Search
-- Knowledge Automation
-- AI-assisted Documentation
-- Intelligent Knowledge Retrieval
-
----
-
-## 💬 WhatsApp AI Assistant
-
-### Enterprise Conversational AI Platform
-
-LLM-powered conversational assistant automating customer support, workflow execution and enterprise communication.
-
-### Capabilities
-
-- AI Chatbot
-- Memory-aware Conversations
-- Workflow Automation
-- CRM Integration
-- WhatsApp APIs
-- Human Escalation
-
-### Stack
-
-`Gemini`
-
-`LangChain`
-
-`Python`
-
-`Twilio`
-
-`Vector Database`
-
----
-
-## 🤖 AutoCar AI
-
-### Autonomous AI Software Engineering Platform
-
-Enterprise Agentic AI ecosystem capable of automating software development lifecycle from business requirements to production deployment.
-
-### AI Workflow
-
-Business Requirements
-
-↓
-
-JIRA Automation
-
-↓
-
-AI Coding Agents
-
-↓
-
-Testing
-
-↓
-
-GitHub Actions
-
-↓
-
-Deployment
-
-### Technology
-
-`Golang`
-
-`React`
-
-`GitHub Actions`
-
-`JIRA APIs`
-
-`AI Agents`
-
-### Business Impact
-
-✔ AI-assisted SDLC
-
-✔ Autonomous Development
-
-✔ Continuous Delivery
-
----
-
-## 🚚 Dealer Platform
-
-### Dealer Ordering & Distribution Ecosystem
-
-Enterprise dealer management platform enabling ordering, inventory coordination and procurement automation.
-
-### Features
-
-- Dealer Management
-- Ordering Workflow
-- Inventory Tracking
-- Mobile Application
-- Procurement Automation
-- Analytics Dashboard
-
-### Stack
-
-`React`
-
-`React Native`
-
-`Node.js`
-
-`REST APIs`
-
----
-
-## 🎓 University ERP Ecosystem
-
-### Education Digital Transformation
-
-Enterprise ERP ecosystem managing complete academic lifecycle across universities.
-
-### Modules
-
-- Admissions
-- Student Information
-- Examination
-- LMS
-- Fees
-- HR
-- Payroll
-- Notifications
-- AI Student Assistant
-
----
-
-## 📲 Biometric Attendance Platform
-
-Enterprise biometric ecosystem managing attendance, authentication and institutional monitoring.
-
-### Highlights
-
-- Device Management
-- Attendance Verification
-- Dashboard
-- Authentication
-- Analytics
-- Real-time Monitoring
-
----
-
-## 📝 CET Registration Platform
-
-### High Scale Examination Registration System
-
-State-level application processing platform supporting large-scale student registrations.
-
-### Features
-
-- Secure Authentication
-- Analytics Dashboard
-- Workflow Automation
-- High Availability
-- Role Based Access
-
----
-
-## 🛒 Dealer Commerce
-
-### Automotive Commerce Platform
-
-Enterprise e-commerce platform connecting dealers and customers through intelligent ordering and inventory workflows.
-
-### Modules
-
-- Dealer Portal
-- Inventory
-- Orders
-- Procurement
-- Commerce
-- Tracking
-
----
-
-## 🏅 Sportly
-
-### Sports Performance Intelligence Platform
-
-Analytics platform for international sports organizations providing athlete performance monitoring and operational intelligence.
-
-### Features
-
-- Activity Tracking
-- Health Monitoring
-- Performance Analytics
-- Sports Intelligence
-- Reporting Dashboard
-
----
-
-# 📊 Enterprise Impact
-
-| Metric | Achievement |
-|---------|-------------|
-| Enterprise Projects Delivered | **50+** |
-| AI Platforms Designed | **15+** |
-| Industries Served | **6+** |
-| Enterprise Clients | **20+** |
-| APIs Designed | **250+** |
-| Integrations Delivered | **30+** |
-| AI Workflows | **100+** |
-| Engineering Teams Led | **40+** |
-| Production Deployments | **300+** |
-| End Users Impacted | **100K+** |
-
----
-
-> **"Every platform represents a business problem solved through scalable architecture, enterprise engineering, and AI-driven innovation."**
-
-
-# 🏢 Enterprise Experience
-
-> **Leading enterprise AI transformation, product delivery, digital modernization, and cross-functional engineering teams across multiple industries.**
-
----
-
-## 🚀 Vishleshan Software Solutions Pvt. Ltd.
-### **Project Manager – AI Product & Delivery Manager**
-**August 2025 – Present**
-
-Leading enterprise AI initiatives, digital transformation programs, and product engineering for manufacturing and automotive enterprises.
-
-### Key Responsibilities
-
-- Lead enterprise AI product strategy and delivery
-- Drive AI-powered workflow automation initiatives
-- Manage enterprise product roadmaps and releases
-- Coordinate engineering, QA, UI/UX and DevOps teams
-- Manage stakeholder communication and executive reporting
-- Ensure Agile delivery across multiple enterprise projects
-
-### Enterprise Platforms
-
-- BridgeX Integration Platform
-- Kajaria One
-- Tata Motors F&I AI
-- Lumi AI
-- AI RAG Platform
-- WhatsApp AI Assistant
-- eDukaan Platform
-
-### Enterprise Clients
-
-- Kajaria Ceramics
-- Tata Motors
-- Luminous
-- Polycab
-
-### Technologies
-
-`Java`
-`Spring Boot`
-`Python`
-`FastAPI`
-`React`
-`Next.js`
-`AWS`
-`Docker`
-`PostgreSQL`
-`SAP CPI`
-`Zoho CRM`
-`Jenkins`
-
----
-
-## 🎓 Edulab Edutech
-### **Senior Project Manager**
-**September 2024 – July 2025**
-
-Managed enterprise ERP implementations and AI-powered academic transformation initiatives for higher education institutions.
-
-### Delivered Platforms
-
-- University ERP
-- Student Lifecycle Platform
-- Admission System
-- Examination System
-- Learning Management System
-- CET Registration Platform
-- WhatsApp Communication Platform
-- Biometric Attendance System
-
-### Key Achievements
-
-✔ Successfully implemented university ERP solutions
-
-✔ Led AI-enabled academic automation
-
-✔ Improved operational efficiency through workflow automation
-
-✔ Delivered large-scale educational platforms
-
----
-
-## 💼 CHIRPN IT Solutions
-### **Senior Associate Project Manager**
-**July 2021 – July 2024**
-
-Managed enterprise software engineering projects while leading Agile delivery, stakeholder engagement, and engineering teams.
-
-### Major Initiatives
-
-- AutoCar AI
-- Sportly
-- Enterprise Automation
-- Salesforce Integrations
-- AI Product Engineering
-
-### Responsibilities
-
-- Engineering Leadership
-- Agile Delivery
-- Product Planning
-- Sprint Management
-- Functional Analysis
-- UAT Coordination
-- Technical Consulting
-
----
-
-## 🚀 Previous Experience
-
-### Technical Lead – Utkarsh Classes
-
-- UI/UX Architecture
-- Learning Platforms
-- Video Delivery Infrastructure
-- AWS Media Streaming
-- Product Development
-
----
-
-### Buyer Coordination & E-Commerce
-
-- Digital Commerce
-- SEO & Marketing
-- Product Management
-- Inventory Operations
-
----
-
-### Business Development & Technical Support
-
-- Customer Success
-- Technical Support
-- CRM Operations
-- Business Development
-
----
-
-### Senior Data Analyst
-
-- Data Intelligence
-- Global Reporting
-- Analytics
-- Research Operations
-
----
-
-# 👨‍🏫 Academic Contributions
-
----
-
-## Guest Faculty
-### MBM University, Jodhpur
-
-Subjects
-
-- Artificial Intelligence
-- Computer Networks
-- Computer Engineering
-- System Design
-
----
-
-## Visiting Faculty
-
-### HSNC University, Mumbai
-
-Teaching Areas
-
-- Artificial Intelligence
-- Analytics
-- Engineering Systems
-
----
-
-### IAQS Institute, Mumbai
-
-Teaching Areas
-
-- Artificial Intelligence
-- Engineering
-- Technology Management
-
----
-
-# 📚 Publications & Research
-
----
-
-## 📘 Harnessing Artificial Intelligence to Ensure Diverse Global Teams
-
-**Publisher:** Elsevier
-
-ISBN
-
-`9780443341359`
-
-Research Focus
-
-- Enterprise AI Adoption
-- Global Workforce Transformation
-- AI Strategy
-- Responsible AI
-
----
-
-## 📘 Comparative Analysis of MANET Routing Protocols Using NS-3
-
-International Journal of Scientific Research in Engineering and Management
-
-DOI
-
-`10.55041/ijsrem30773`
-
-Research Areas
-
-- MANET
-- Network Simulation
-- NS-3
-- Routing Algorithms
-
----
-
-## 📘 Small Language Models for Real-World AI
-
-Research Focus
-
-- Small Language Models
-- Enterprise AI
-- Educational AI
-- Hybrid AI Frameworks
-- Efficient LLM Deployment
-
----
-
-# 🏆 Professional Certifications
-
-| Certification | Organization |
-|---------------|-------------|
-| PMP® Training | Project Management Institute |
-| Google Generative AI | Google Cloud |
-| LangChain & LlamaIndex | iNeuron |
-| Neo4j & LLM Fundamentals | Neo4j |
-| AI For All | Intel |
-| AWS DevOps | CompTIA |
-| OpenAI & Generative AI | Professional Training |
-| Responsible AI | LinkedIn Learning |
-| Gemini AI | Google Cloud |
-| IBM Artificial Intelligence | IBM |
-
----
-
-# 🌟 Leadership Philosophy
-
-I believe successful AI transformation is not driven by technology alone.
-
-It requires:
-
-- Strong engineering culture
-- Clear product vision
-- Scalable architecture
-- Responsible AI practices
-- Business-first thinking
-- Continuous innovation
-- High-performing teams
-- Customer-centric delivery
-
-Technology becomes valuable only when it creates measurable business outcomes.
-
----
-
-# 🤝 Professional Strengths
-
-### Leadership
-
-- Enterprise AI Strategy
-- Technical Leadership
-- Program Management
-- Product Delivery
-- Stakeholder Management
-- Team Building
-
----
-
-### Engineering
-
-- Solution Architecture
-- Enterprise Integration
-- Cloud Native Systems
-- AI Platforms
-- Distributed Systems
-- API Ecosystems
-
----
-
-### Business
-
-- Digital Transformation
-- AI Consulting
-- Process Automation
-- Business Analysis
-- Innovation Strategy
-- Executive Communication
-
----
-
-# 🌍 Community & Knowledge Sharing
-
-I actively contribute to the AI community through:
-
-- Technical Mentoring
-- AI Workshops
-- University Lectures
-- Research Publications
-- Engineering Leadership
-- Enterprise AI Consulting
-- Product Strategy Discussions
-- Knowledge Sharing
-
----
-
-> **"Technology creates value only when it empowers people, simplifies complexity, and transforms businesses at scale."**
----
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&hide_border=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&hide_border=true"/>
+</picture>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkkJodhpur&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
----
+<a id="contact"></a>
+<div align="center">
 
-# 🏆 GitHub Achievements
+### 🌍 Let's Connect
 
-<p align="center">
+*Technology creates value only when it empowers people, simplifies complexity, and transforms businesses at scale.*
 
-<img src="https://github-profile-trophy.vercel.app/?username=SkkJodhpur&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<a href="mailto:skk.jodhpur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1220,50:2563EB,100:38BDF8&section=footer"/>
 
----
-
-# 🚀 Current Focus
-
-## Enterprise AI
-
-- Enterprise GenAI Platforms
-- Agentic AI Systems
-- Enterprise RAG
-- AI Copilots
-- AI Workflow Automation
-
----
-
-## Engineering
-
-- Cloud Native Architecture
-- Distributed Systems
-- Enterprise APIs
-- Event Driven Architecture
-- AI Integration Platforms
-
----
-
-## Product
-
-- AI Product Strategy
-- Product Delivery
-- Enterprise Consulting
-- Digital Transformation
-- AI Adoption Frameworks
-
----
-
-## Research
-
-- Small Language Models
-- AI Governance
-- Enterprise AI
-- Responsible AI
-- AI Evaluation Frameworks
-
----
-
-# 🏗 Enterprise AI Reference Architecture
-
-```text
-                        Enterprise Users
-                               │
-       Mobile Apps • Web Portal • REST APIs
-                               │
-                        API Gateway
-                               │
-                 Authentication Layer
-                               │
-        Enterprise Business Microservices
-                               │
- ┌─────────────────────────────────────────────────────┐
- │                                                     │
- │               AI Intelligence Layer                 │
- │                                                     │
- │   • AI Agents                                       │
- │   • Enterprise Copilot                              │
- │   • RAG Engine                                      │
- │   • Prompt Management                               │
- │   • Workflow Automation                             │
- │   • Knowledge Intelligence                          │
- │                                                     │
- └─────────────────────────────────────────────────────┘
-                               │
-               Vector Database + Redis Cache
-                               │
-                  PostgreSQL • MongoDB
-                               │
-     SAP • Salesforce • Zoho • Enterprise Systems
-                               │
-                     AWS Cloud Infrastructure
-```
-
----
-
-# 📈 Enterprise Delivery Metrics
-
-| Category | Achievement |
-|----------|-------------:|
-| Technology Experience | **12+ Years** |
-| Enterprise AI Experience | **4+ Years** |
-| Enterprise Projects | **50+** |
-| AI Platforms Delivered | **15+** |
-| Industries Served | **6+** |
-| Teams Managed | **40+ Engineers** |
-| Enterprise Clients | **20+** |
-| Production Releases | **300+** |
-| APIs Designed | **250+** |
-| Enterprise Integrations | **30+** |
-| AI Workflows | **100+** |
-| Users Impacted | **100K+** |
-
----
-
-# 🤝 Open for Collaboration
-
-I'm always interested in collaborating on:
-
-### 🤖 Enterprise AI
-
-- Agentic AI
-- Enterprise RAG
-- AI Copilots
-- LLM Applications
-- AI Automation
-
----
-
-### 🏢 Enterprise Consulting
-
-- AI Strategy
-- Product Architecture
-- Enterprise Modernization
-- Digital Transformation
-- Cloud Migration
-
----
-
-### 💻 Software Engineering
-
-- Spring Boot
-- FastAPI
-- React
-- Next.js
-- Cloud Native Systems
-
----
-
-### 🎓 Academic & Research
-
-- AI Research
-- Guest Lectures
-- Technical Mentoring
-- Research Publications
-- University Collaboration
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:skk.jodhpur@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SkkJodhpur">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0000-0003-4510-2193">
-<img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/918946864160">
-<img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Professional Philosophy
-
-> **"Artificial Intelligence is not about replacing people—it is about empowering people with intelligent systems that enhance decision-making, automate complexity, and create measurable business value."**
-
-I believe successful AI transformation is built on:
-
-- Business-first thinking
-- Responsible AI
-- Scalable Architecture
-- Continuous Learning
-- Engineering Excellence
-- Customer-Centric Innovation
-- High-Performing Teams
-
----
-
-<p align="center">
-
-### ⭐ If you find my work interesting, consider following my GitHub profile and connecting on LinkedIn.
-
-**Building the next generation of Enterprise AI Systems, one platform at a time. 🚀**
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,50:2563EB,100:38BDF8&section=footer"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ Enterprise AI • GenAI • Agentic AI • Product Leadership • Enterprise Architecture ⭐
-
-</p>
+</div>
