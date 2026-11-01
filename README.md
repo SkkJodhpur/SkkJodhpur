@@ -1,13 +1,14 @@
-<!-- SHAILESH KUMAR KHANCHANDANI | Enterprise AI Leader | GitHub Profile README v2 -->
+<!-- SHAILESH KUMAR KHANCHANDANI | Enterprise AI Leader | README v3 -->
 
 <a id="top"></a>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:1D4ED8,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Enterprise%20AI%20%E2%80%A2%20GenAI%20%E2%80%A2%20Product%20%26%20Delivery%20Leadership&descAlignY=62&descSize=17"/>
-  <img width="100%" alt="Shailesh Kumar Khanchandani" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:2563EB,100:38BDF8&text=Shailesh%20Kumar%20Khanchandani&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Enterprise%20AI%20%E2%80%A2%20GenAI%20%E2%80%A2%20Product%20%26%20Delivery%20Leadership&descAlignY=62&descSize=17"/>
-</picture>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1220,50:2563EB,100:38BDF8&section=header"/>
+
+# Shailesh Kumar Khanchandani
+
+**Enterprise AI • GenAI • Product & Delivery Leadership**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Enterprise+AI+Transformation+Leader;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MCP;AI+Program+%26+Product+Delivery;Educator+%7C+Researcher+%7C+Technical+Leader"/>
 
@@ -29,10 +30,8 @@
 
 </div>
 
----
-
 <a id="about"></a>
-## 👋 About
+<h2 align="center"><img alt="ABOUT" src="https://img.shields.io/badge/ABOUT-2563EB?style=for-the-badge"/></h2>
 
 > [!NOTE]
 > **12+ years** in enterprise software, **4+ years** focused on LLM, RAG and agentic AI, delivering for Manufacturing, Automotive, Education, Finance and Enterprise SaaS.
@@ -47,10 +46,11 @@ I design, deliver and scale **enterprise-grade AI ecosystems** that solve real b
 | Integration platforms (SAP, CRM) | Cross-functional teams (40+ engineers) |
 | AI analytics & SaaS products | Stakeholder & executive reporting |
 
----
-
 <a id="impact"></a>
-## 📈 Impact
+<h2 align="center"><img alt="IMPACT" src="https://img.shields.io/badge/IMPACT-059669?style=for-the-badge"/></h2>
+
+> [!TIP]
+> **Clients:** Kajaria Ceramics • Tata Motors • Luminous • Polycab • Universities
 
 <div align="center">
 
@@ -58,14 +58,13 @@ I design, deliver and scale **enterprise-grade AI ecosystems** that solve real b
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **50+** | **15+** | **250+** | **30+** | **100+** | **300+** | **100K+** |
 
-**Clients:** Kajaria Ceramics • Tata Motors • Luminous • Polycab • Universities
-
 </div>
 
----
-
 <a id="platforms"></a>
-## 🚀 Featured Platforms
+<h2 align="center"><img alt="FEATURED PLATFORMS" src="https://img.shields.io/badge/FEATURED%20PLATFORMS-7C3AED?style=for-the-badge"/></h2>
+
+> [!IMPORTANT]
+> Client work is described at a high level. Metrics are from delivered programs.
 
 <table>
 <tr>
@@ -128,23 +127,19 @@ KPI dashboards, predictive analytics and dealer insights.
 <summary><b>📂 More platforms</b></summary>
 <br/>
 
-| Platform | Scope | Stack |
-|---|---|---|
-| 🚚 **Dealer Platform** | Ordering, inventory, procurement, mobile app | `React` `React Native` `Node.js` |
-| 🛒 **Dealer Commerce** | Dealer portal, orders, tracking, procurement | E-commerce |
-| 🎓 **University ERP** | Admissions, SIS, exams, LMS, fees, HR, payroll, AI assistant | ERP |
-| 📝 **CET Registration** | State-level, high-availability registrations | Secure auth, RBAC |
-| 📲 **Biometric Attendance** | Device management, verification, monitoring | Real-time analytics |
-| 🏅 **Sportly** | Athlete performance and health analytics | Dashboards |
+| Platform | Scope |
+|---|---|
+| 🚚 **Dealer Platform** | Ordering, inventory, procurement, mobile app (`React` `React Native` `Node.js`) |
+| 🛒 **Dealer Commerce** | Dealer portal, orders, tracking, procurement |
+| 🎓 **University ERP** | Admissions, SIS, exams, LMS, fees, HR, payroll, AI assistant |
+| 📝 **CET Registration** | State-level, high-availability registrations |
+| 📲 **Biometric Attendance** | Device management, verification, monitoring |
+| 🏅 **Sportly** | Athlete performance and health analytics |
 
 </details>
 
-<p align="right"><a href="#top">⬆ back to top</a></p>
-
----
-
 <a id="architecture"></a>
-## 🏗 Reference Architecture
+<h2 align="center"><img alt="ARCHITECTURE" src="https://img.shields.io/badge/ARCHITECTURE-0891B2?style=for-the-badge"/></h2>
 
 ```mermaid
 flowchart TB
@@ -161,10 +156,8 @@ flowchart TB
     D --> CL["AWS Cloud"]
 ```
 
----
-
 <a id="stack"></a>
-## 🛠 Tech Stack
+<h2 align="center"><img alt="TECH STACK" src="https://img.shields.io/badge/TECH%20STACK-EA580C?style=for-the-badge"/></h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,typescript,go,nodejs,spring,fastapi,react,nextjs,angular,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,githubactions,jenkins,git&perline=10"/>
@@ -198,35 +191,23 @@ OpenAI • Azure OpenAI • Gemini • Claude • LangChain • LangGraph • Ll
 Jira • Confluence • Trello • MS Planner • Figma • Adobe XD • Cursor • Trae • Lovable
 </details>
 
----
-
 <a id="career"></a>
-## 🏢 Career
+<h2 align="center"><img alt="CAREER" src="https://img.shields.io/badge/CAREER-DB2777?style=for-the-badge"/></h2>
 
-```mermaid
-timeline
-    title Career Journey
-    Early career : Senior Data Analyst : Business Development & Support : Buyer Coordination & E-Commerce : Technical Lead, Utkarsh Classes
-    2021 - 2024 : CHIRPN IT Solutions : Senior Associate Project Manager : AutoCar AI, Sportly, Salesforce
-    2024 - 2025 : Edulab Edutech : Senior Project Manager : University ERP, LMS, CET
-    2025 - Now : Vishleshan Software Solutions : AI Product & Delivery Manager : Kajaria One, Tata Motors F&I AI, RAG
-```
+| Period | Role | Company | Focus |
+|---|---|---|---|
+| **Aug 2025 – Now** | AI Product & Delivery Manager | **Vishleshan Software Solutions** | Kajaria One, Tata Motors F&I AI, RAG, WhatsApp AI, BridgeX, eDukaan |
+| **Sep 2024 – Jul 2025** | Senior Project Manager | **Edulab Edutech** | University ERP, LMS, CET, biometric attendance |
+| **Jul 2021 – Jul 2024** | Senior Associate Project Manager | **CHIRPN IT Solutions** | AutoCar AI, Sportly, Salesforce, Agile delivery |
 
 <details>
-<summary><b>Role details</b></summary>
+<summary><b>Earlier roles</b></summary>
 
-**Vishleshan Software Solutions** (Aug 2025 – Present): enterprise AI strategy, workflow automation, roadmaps; platforms include BridgeX, Kajaria One, Tata Motors F&I AI, Lumi AI, RAG, WhatsApp AI, eDukaan.
-
-**Edulab Edutech** (Sep 2024 – Jul 2025): university ERP, student lifecycle, admissions, exams, LMS, CET, WhatsApp communication, biometric attendance.
-
-**CHIRPN IT Solutions** (Jul 2021 – Jul 2024): Agile delivery, sprint management, UAT, technical consulting.
-
+Technical Lead (Utkarsh Classes) • Buyer Coordination & E-Commerce • Business Development & Technical Support • Senior Data Analyst
 </details>
 
----
-
 <a id="research"></a>
-## 🎓 Research & Academia
+<h2 align="center"><img alt="RESEARCH & ACADEMIA" src="https://img.shields.io/badge/RESEARCH%20%26%20ACADEMIA-4F46E5?style=for-the-badge"/></h2>
 
 | 📘 Publication | Venue |
 |---|---|
@@ -242,9 +223,7 @@ timeline
 PMP® Training (PMI) • Google Generative AI • Gemini AI (Google Cloud) • IBM AI • Neo4j & LLM Fundamentals • LangChain & LlamaIndex (iNeuron) • Intel AI For All • AWS DevOps • Responsible AI (LinkedIn Learning)
 </details>
 
----
-
-## 🎯 Now
+<h2 align="center"><img alt="NOW" src="https://img.shields.io/badge/NOW%20%26%20OPEN%20TO-CA8A04?style=for-the-badge"/></h2>
 
 - [x] Enterprise GenAI platforms & agentic systems
 - [x] Enterprise RAG and AI copilots
@@ -253,35 +232,24 @@ PMP® Training (PMI) • Google Generative AI • Gemini AI (Google Cloud) • I
 > [!TIP]
 > Open to **enterprise AI consulting**, product architecture, modernization, guest lectures and research collaboration.
 
----
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SkkJodhpur&show_icons=true&hide_border=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkkJodhpur&layout=compact&hide_border=true"/>
-</picture>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkkJodhpur&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkkJodhpur&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 <a id="contact"></a>
-<div align="center">
+<h2 align="center"><img alt="CONTACT" src="https://img.shields.io/badge/CONTACT-0B1220?style=for-the-badge"/></h2>
 
-### 🌍 Let's Connect
+<div align="center">
 
 *Technology creates value only when it empowers people, simplifies complexity, and transforms businesses at scale.*
 
 <a href="mailto:skk.jodhpur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ershaileshkumarkhanchandani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1220,50:2563EB,100:38BDF8&section=footer"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1220,50:2563EB,100:38BDF8&section=footer"/>
+
+<a href="#top">⬆ back to top</a>
 
 </div>
