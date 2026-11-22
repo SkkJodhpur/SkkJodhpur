@@ -70,7 +70,7 @@ I design, deliver and scale **enterprise-grade AI ecosystems** that solve real b
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Kajaria One
+### 🏢 S One
 **Sales & Distribution Platform**
 Multi-tenant field-sales ecosystem: dealers, leads, orders, SAP sync, GPS attendance, dashboards.
 <br/>`Java` `Spring Boot` `Next.js` `SAP CPI` `PostgreSQL` `AWS`
@@ -196,7 +196,7 @@ Jira • Confluence • Trello • MS Planner • Figma • Adobe XD • Cursor 
 
 | Period | Role | Company | Focus |
 |---|---|---|---|
-| **Aug 2025 – Now** | AI Product & Delivery Manager | **Vishleshan Software Solutions** | Kajaria One, Tata Motors F&I AI, RAG, WhatsApp AI, BridgeX, eDukaan |
+| **Aug 2025 – Now** | AI Product & Delivery Manager | **Vishleshan Software Solutions** | S One, F&I AI, RAG, WhatsApp AI, eDukaan |
 | **Sep 2024 – Jul 2025** | Senior Project Manager | **Edulab Edutech** | University ERP, LMS, CET, biometric attendance |
 | **Jul 2021 – Jul 2024** | Senior Associate Project Manager | **CHIRPN IT Solutions** | AutoCar AI, Sportly, Salesforce, Agile delivery |
 
